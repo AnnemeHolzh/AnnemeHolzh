@@ -17,7 +17,7 @@ A professional and engaging app designed to help users keep track of their fitne
 ### Peeper 🌍
 Developed as part of a collaboration with a tertiary institution, this app tracks whether students have completed their compulsory community service. It balances fun and professionalism with unique heading fonts and vivid colors to keep users engaged.
 
-## Destination Malgas ⛵
+### Destination Malgas ⛵
 I helped this small business develop the website for their business, this project is still ongoing. What has been done: The website that is publicly on the internet for potential clients and customers to access. ToDo: Create an administrator dashboard where the owner can upload their own updates to the website as well as manage bookings in the website.
 
 ## 📈 Current Focus
