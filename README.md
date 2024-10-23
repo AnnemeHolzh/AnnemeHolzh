@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a dedicated BSc Application Development studen
 
 ## 🚀 About Me
 
-- 🌱 **Learning Journey:** I'm currently diving deep into MVVM architecture, React Native, best practices for responsive design and simple animations! I enjoy exploring new technologies and refining my skills to become the best version of myself.
+- 🌱 **Learning Journey:** I'm currently diving deep into MVVM architecture, React Native, best practices for responsive design and toggling light and dark mode! I enjoy exploring new technologies and refining my skills to become the best version of myself.
 - 💼 **Professional Experience:** I am a final year student tutor where, due to my high academic perdformance, I help tutor higher certificate, first year and second year students in programming and cloud development, both in class as well as in the university library. 
 - 👨‍💻 **Technical Skills:** Proficient in C#, XAML, SQL, Typecript, HTML, CSS, Java and Azure functions. I have hands-on experience with creating dynamic and responsive applications.
 - 🎨 **UI/UX Design:** I have a keen interest in UI/UX design, focusing on creating visually appealing and user-friendly interfaces. I believe in the importance of good design fundamentals and strive to implement them in my projects.
